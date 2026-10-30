@@ -161,11 +161,11 @@ I built this laboratory strictly for **educational purposes only**. I will only 
 ---
 
 ## 👤 Author
-**Yuvraj Dharmendra Yadav**\
+**SIDDHANTHADITIYAA VETTAKAL**\
 Third year Computer Engineering student\
 Cybersecurity Intern, Networkwalks
 
-LinkedIn: <www.linkedin.com/in/yuvraj-yadav-77205642b>
+LinkedIn: <www.linkedin.com/in/siddhanthaditiyaa-vettakal>
 
 ---
 
